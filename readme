@@ -1,0 +1,5 @@
+If the code doesn't due to version incompatiblity, then you can create a conda environment
+with environment.yml file which was originally use to write the code
+
+conda env create -f environment.yml
+conda activate test
