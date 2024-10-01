@@ -4,7 +4,7 @@ This repository contains implementations and experiments related to neural netwo
 
 ## Project Structure
 
-- **Optimizers_and_their_Convergence**: This contains mathematical details of implementation and working of different algorithms <br>
+- **Optimizers_and_their_Convergence**: This contains mathematical details of implementation and working of different algorithms
     as well as analysis of results of experiments. 
 - **Experiments Code**: This folder contains the implementation of neural networks.
 - **Images**: This folder contains result images and other visualizations.
