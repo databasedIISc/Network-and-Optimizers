@@ -1,6 +1,6 @@
 # Network and Optimizers 
 
-This repository contains implementations and experiments related to neural networks and various optimization techniques. The aim is to study the performance of different optimizers and their effect on neural network training.
+This repository offers implementations of Dense Neural Networks built solely with Numpy, along with popular optimization algorithms such as SGD, RMSProp, and Adam. The objective is to explore and analyze the performance differences between these optimizers, evaluating their impact on training efficiency and accuracy in neural network models.
 
 ## Project Structure
 
