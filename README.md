@@ -11,8 +11,8 @@ This repository offers implementations of Dense Neural Networks built solely wit
 
 ## Results
 
-Here is a sample result of the network training using different optimizers:
+Here is a sample result of the network training on MNIST (2 Layer Dense NN with Adam):
 ![Training Results](Images/result.png)
 
-Performance of different Optimizers
+Performance of different Optimizers:
 ![Training Results](Images/MSE%20Learning%20Curve.png)
